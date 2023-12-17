@@ -289,5 +289,3 @@ A complete breakdown of the functions is also shown in the app.
 #### WARNING
 
 This is still experimental code. Nothing is yet set in stone. Things will break. There are bugs. It's the wild west out there.
-
-..enjoy :)
